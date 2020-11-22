@@ -22,7 +22,8 @@ const config: NuxtConfig = {
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
   plugins: [
-    "@/plugins/composition-api"
+    "@/plugins/composition-api",
+    "~/plugins/firebase.ts"
   ],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
