@@ -1,20 +1,2 @@
-# ts_fire_practice
-
-## Build Setup
-
-```bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Qiitaの記事用
+https://qiita.com/ubugeeei/items/42c069d4c7b4ca4f45c8
